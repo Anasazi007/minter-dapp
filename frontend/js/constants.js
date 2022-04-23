@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Beta Collection!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Beta NFT Collection is a decentralized, open-source project created for test purposes.';
+const welcome_p = 'The Beta NFT Collection is a decentralized project created for test purposes.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
