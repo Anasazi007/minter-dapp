@@ -1,7 +1,7 @@
 const contractAddress = "0x10433D62850b5543fBF97C343a47C73E8582C320"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Beta NFT Collection!";
+const welcome_h1 = "Welcome to the Beta Collection!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Beta NFT Collection is a decentralized, open-source project created for test purposes.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
