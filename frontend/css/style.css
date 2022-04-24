@@ -335,9 +335,9 @@ section {
 /* SPINNER */
 .dot-spin {
   position: absolute;
-  top: 40%;
-  left: 40%;
-  transform: translate(-40%, -40%) scale(0.5);
+  top: 20%;
+  left: 20%;
+  transform: translate(-20%, -20%) scale(0.5);
 }
 
 /* MEDIA QUERIES */
