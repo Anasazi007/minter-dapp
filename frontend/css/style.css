@@ -337,7 +337,7 @@ section {
   position: absolute;
   top: 40%;
   left: 40%;
-  transform: translate(-50%, -50%) scale(3);
+  transform: translate(-40%, -40%) scale(3);
 }
 
 /* MEDIA QUERIES */
