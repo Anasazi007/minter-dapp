@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 80%;
+  width: 100%;
 }
 
 /* SPINNER */
@@ -337,7 +337,7 @@ section {
   position: absolute;
   top: 40%;
   left: 40%;
-  transform: translate(-40%, -40%) scale(2);
+  transform: translate(-40%, -40%) scale(1);
 }
 
 /* MEDIA QUERIES */
