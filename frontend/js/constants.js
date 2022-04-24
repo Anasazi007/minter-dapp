@@ -1,17 +1,17 @@
 const contractAddress = "0xa5A5C3dE70eB21679825dF4Cdb8014c6D8dC494E"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to Dice Collection 6969A!";
+const welcome_h1 = "Welcome to Dice Collection 6969A";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Dice Collection 6969A is a decentralized project created for test purposes only.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
+const h1_presale_coming_soon = "NFT Drop Coming Soon!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
-const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
+const p_presale_coming_soon = "We are working hard to launch our NFT Collection. Stay tuned for updates!";
+const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale ... 😢";
+const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉 Only 1 transaction permitted, choose your amount wisely.";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
 const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
