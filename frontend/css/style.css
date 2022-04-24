@@ -399,6 +399,10 @@ section {
   max-width: 17vw !important;
 }
 
+.countdown.card.show-card {
+  padding-top: 50px !important;
+}
+
 h1#mainHeading {
   margin-top: 0px !important;
   margin-bottom: 0px !important;
