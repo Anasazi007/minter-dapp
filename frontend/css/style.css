@@ -314,7 +314,7 @@ section {
   margin: 1rem 0;
 }
 
-/* SLIDDER */
+/* SLIDER */
 
 .splide {
   position: absolute;
@@ -329,7 +329,7 @@ section {
 }
 
 .splide__slide img {
-  width: 80%;
+  width: 100%;
 }
 
 /* SPINNER */
