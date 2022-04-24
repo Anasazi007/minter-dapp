@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Dice Collection 6969A";
-const description = "Second test NFT collection";
+const description = "Cool Assortment of Dices!";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -17,8 +17,7 @@ const layerConfigurations = [
     growEditionSizeTo: 20,
     layersOrder: [
       { name: "Background" },
-      { name: "Circle" },
-      { name: "Other" },
+      { name: "Dice" },
     ],
   },
 ];
@@ -28,8 +27,8 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-  width: 1000,
-  height: 1000,
+  width: 2000,
+  height: 2000,
   smoothing: false,
 };
 
