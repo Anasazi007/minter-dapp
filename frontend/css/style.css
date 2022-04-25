@@ -413,3 +413,9 @@ h1#mainHeading {
 p#mainText {
   color: #dcdc0e !important;
 }
+
+.container.not-connected.show-not-connected {
+  margin-left: 440px !important;
+  padding-left: 64px !important;
+  padding-right: 64px !important;
+}
