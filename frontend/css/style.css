@@ -415,7 +415,7 @@ p#mainText {
 }
 
 .container.not-connected.show-not-connected {
-  margin-left: 440px !important;
-  padding-left: 64px !important;
-  padding-right: 64px !important;
+  margin-left: 400px !important;
+  padding-left: 84px !important;
+  padding-right: 84px !important;
 }
