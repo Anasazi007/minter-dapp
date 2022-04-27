@@ -415,5 +415,5 @@ p#mainText {
 }
 
 .splide.splide--loop.splide--ttb.splide--draggable.is-active.is-initialized {
-  max-width: 40vw !important;
+  max-width: 30vw !important;
 }
