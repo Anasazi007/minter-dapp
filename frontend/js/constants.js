@@ -1,4 +1,4 @@
-const contractAddress = "0xa5A5C3dE70eB21679825dF4Cdb8014c6D8dC494E"; //Replace with your own contract address
+const contractAddress = "0xaB0dA59a4F1146A0895235E57a26955e8927269B"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to Dice Collection 6969A";
