@@ -1,7 +1,7 @@
 const contractAddress = "0xa5A5C3dE70eB21679825dF4Cdb8014c6D8dC494E"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to Dice Collection 6969A";
+const welcome_h1 = "Welcome to Dice Collection";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Dice Collection 6969A is a decentralized project created for test purposes only.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!";
