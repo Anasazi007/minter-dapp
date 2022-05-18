@@ -460,3 +460,23 @@ li.collection1 img {
   margin-right: 1%;
   float: left;
 }
+
+/* ROADMAP PAGE */
+
+.roadmap-container {
+  width: 100%;
+  margin-top: 2.5%;
+  display: flex;
+  align-items: center;
+}
+
+.roadmap-container img {
+  width: 50%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+}
+
+h1.roadmap-h1 , p.roadmap-p {
+  width: 95%;
+  text-align: center;
+}
