@@ -424,7 +424,7 @@ p#mainText {
 
 /* ABOUT PAGE */
 
-.about-container , .about-content {
+.about-container {
   width: 100%;
   display: flex;
   align-items: center;
@@ -435,3 +435,7 @@ p#mainText {
   margin-right: 5%;
 }
 
+.about-content {
+  width: 100%;
+  display: flex;
+}
