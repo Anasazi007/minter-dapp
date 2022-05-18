@@ -53,8 +53,8 @@ header .container {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .menu {
