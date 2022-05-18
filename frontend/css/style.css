@@ -425,11 +425,7 @@ p#mainText {
 /* ABOUT PAGE */
 
 #about-main {
-  width: 50vw;
-}
-
-.about-image {
-  width: 100%;
+  width: 50vw !important;
 }
 
 .about-content {
