@@ -425,7 +425,7 @@ p#mainText {
 /* ABOUT PAGE */
 
 #about-main {
-  width: 50vw !important;
+  width: 100vw;
 }
 
 .about-content {
