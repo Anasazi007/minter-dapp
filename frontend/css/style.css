@@ -431,11 +431,13 @@ p#mainText {
  }
 
 .about-container img {
-  width: 50%;
+  width: 45%;
+  margin-left: 5%;
   margin-right: 5%;
 }
 
 .about-container h {
   width: 40%;
+  margin-right: 5%;
   display: flex;
 }
