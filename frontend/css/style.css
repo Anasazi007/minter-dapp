@@ -444,6 +444,10 @@ h1.about-h1 , p.about-p {
 
 /* COLLECTIONS PAGE */
 
+ul.collection1 {
+  list-style-type: none;
+}
+
 li.collection1 img {
   width: 18%;
   margin-right: 2%;
