@@ -441,3 +441,10 @@ h1.about-h1 , p.about-p {
   width: 95%;
   text-align: center;
 }
+
+/* COLLECTIONS PAGE */
+
+.collection1 {
+  width: 18%;
+  margin-right: 2%;
+}
