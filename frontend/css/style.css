@@ -444,6 +444,11 @@ h1.about-h1 , p.about-p {
 
 /* COLLECTIONS PAGE */
 
+h1.collections-h1 {
+  width: 100%;
+  text-align: center;
+}
+
 ul.collection1 {
   list-style-type: none;
 }
