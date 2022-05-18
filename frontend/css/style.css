@@ -424,6 +424,13 @@ p#mainText {
 
 /* ABOUT PAGE */
 
-#about-container {
-  width: 100vw;
+.about-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.about-container img {
+  width: 50%;
+  margin-right: 10%;
 }
