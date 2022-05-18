@@ -426,6 +426,7 @@ p#mainText {
 
 .about-container {
   width: 100%;
+  margin-top: 5%;
   display: flex;
   align-items: center;
  }
