@@ -444,10 +444,6 @@ h1.about-h1 , p.about-p {
 
 /* COLLECTIONS PAGE */
 
-.collection1-images {
-  display: flex;
-}
-
 li.collection1 img {
   width: 18%;
   margin-right: 2%;
