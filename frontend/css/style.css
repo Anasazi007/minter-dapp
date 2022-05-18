@@ -46,8 +46,8 @@ body {
 header {
   background-color: var(--bg-color);
   box-shadow: var(--header-shadow);
-  margin-left: 5%;
-  margin-right: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 header .container {
