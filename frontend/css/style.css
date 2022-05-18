@@ -438,7 +438,7 @@ p#mainText {
 }
 
 h1.about-h1 , p.about-p {
-  width: 42.5%;
+  width: 95%;
   display: flex;
   text-align: center;
 }
