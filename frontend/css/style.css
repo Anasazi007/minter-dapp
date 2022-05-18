@@ -421,3 +421,19 @@ p#mainText {
   padding-right: 84px !important;
 }
 */
+
+/* ABOUT PAGE */
+
+#about-main {
+  width: 80%;
+}
+
+.about-image {
+  width: 100%;
+}
+
+.about-content {
+  width: 80%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
