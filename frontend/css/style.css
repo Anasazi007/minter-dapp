@@ -451,4 +451,5 @@ h1.about-h1 , p.about-p {
 li.collection1 img {
   width: 18%;
   margin-right: 2%;
+  float: left;
 }
